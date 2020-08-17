@@ -6,11 +6,3 @@ To achive above goal we have used geoJSON, JavaScript and HTML combination. To s
 #### Image street style with Earthquackes and Techtonics Plates
 When map loads it will show you street style with earthquakes marked in circle with different colors according to magnitude. Magnitude scale is shown in legdens. 
 ![street](Earthquake_Challenge/images/street_view.PNG)
-#### Image Satellie style with Earthquackes and Techtonics Plates
-![street](Earthquake_Challenge/images/satellite_view.PNG)
-#### Image Dark style with Earthquackes and Techtonics Plates
-![street](Earthquake_Challenge/images/dark.PNG)
-#### Image with Street view and only Earthquackes
-![street](Earthquake_Challenge/images/street_earthquackes.PNG)
-#### Image with Dark view with only Techtonics Plates
-![street](Earthquake_Challenge/images/dark_techtonics.PNG)
